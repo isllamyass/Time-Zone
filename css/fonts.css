@@ -1,0 +1,9 @@
+@font-face {
+    src: url(../fonts/Alegreya_Sans/AlegreyaSans-Black.ttf);
+    font-family: AlegreyaSans;
+}
+
+@font-face {
+    font-family: DancingScript;
+    src: url(../fonts/Dancing_Script/DancingScript-VariableFont_wght.ttf);
+}

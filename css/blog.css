@@ -1,0 +1,137 @@
+.blogpage {
+    background-image: url(../img/about_hero.png);
+    height: 490px;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+ }
+ .blogshop {
+    font-size: 70px;
+    font-weight: 700;
+    padding: 203px 686px;
+    color: #0b1c39;
+ }
+ 
+ .blogpage{
+  margin-bottom: 150px;
+ }
+
+ .container .f {
+   padding-left: 60px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+ }
+ .google {
+   font-size: 24px;
+   color: #0b1c39;
+   text-decoration-line: none;
+   padding-top: 20px;
+ }
+ .google:hover{
+   color: red;
+}
+.pb1 {
+   font-size: #777777;
+   font-size: 16px;
+   margin-bottom: 20px;
+}
+
+.traves {
+   color: #777777;
+   text-decoration-line: none;
+   
+}
+.traves:hover {
+   color: red;
+}
+.traves:after {
+
+}
+.blg_item_date{
+   position: absolute;
+   bottom: 147px;
+   left: 23px;
+   padding: 0px 24px;
+   background-color: red;
+}
+
+.num15 {
+   color: white;
+   text-decoration-line: none;
+}
+.num15:hover {
+   background-color: rgba(255, 0, 0, 0)
+}
+
+.btn1{
+   color: white;
+   border: none;
+   border-radius: 5px;
+   background-color: red;
+   
+}
+ .btn2 {
+   
+   width: 236px;
+   margin-top: 1px;
+   color: white;
+   border: none;
+   background-color: red;
+   height: 40px;
+}
+.btn2:hover{
+   color: black;
+   background-color: white;
+   border: red;
+   border-style: inset;
+   overflow: hidden;
+}
+
+
+.y{
+   padding: 5px;
+   border-radius: 2px;
+   border-color: #f0e9ff;
+   border: none;
+   height: 37px;
+}
+
+.y:hover{
+   padding: 5px;
+   border-radius: 2px;
+   border-color: #f0e9ff;
+}
+
+.yy{
+   background-color: red;
+   height: 37px;
+   width: 45px;
+   border: none;
+}
+.cat {
+   margin: 0px -150px 0px 50px;
+   padding: 104px 0px 0px 0px;
+  
+}
+
+.bbc {
+   
+}
+.tex{
+   color: #777777;
+   text-decoration-line: none;
+}
+
+.tex:hover{
+   color: red;
+}
+.cate {
+   font-size: 30px;
+   color: #0b1c39;
+   font-family: DancingScript;
+}
+
+.bb{
+   
+   margin: 0px -10px -5px 40px;
+}

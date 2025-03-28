@@ -1,0 +1,30 @@
+.aboutpage {
+    background-image: url(../img/about_hero.png);
+    height: 490px;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+ }
+ .aboutshop {
+    font-size: 70px;
+    font-weight: 700;
+    padding: 203px 563px;
+    color: #0b1c39;
+ }
+
+.aboutus {
+    padding: 50px 175px;
+}
+
+.aboutus .container h4 {
+    color: #000a2d;
+    font-size: 30px;
+    font-family: DancingScript;
+}
+
+.aboutus .container p {
+    color: #464d65;
+    font-size: 16px;
+    margin-top: 20px;
+    padding-left: 20px;
+}

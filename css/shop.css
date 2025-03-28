@@ -1,0 +1,17 @@
+.shoppage {
+   background-image: url(../img/about_hero.png);
+   height: 490px;
+   background-position: center;
+   background-repeat: no-repeat;
+   
+}
+.watchshop {
+   font-size: 70px;
+   font-weight: 700;
+   padding: 203px 563px;
+   color: #0b1c39;
+}
+
+.shoppage {
+ margin-bottom: 150px;
+}

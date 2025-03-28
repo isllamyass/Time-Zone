@@ -1,0 +1,93 @@
+.contactspage {
+    background-image: url(../img/about_hero.png);
+    height: 490px;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+ }
+ .contactsshop {
+    font-size: 70px;
+    font-weight: 700;
+    padding: 203px 563px;
+    color: #0b1c39;
+ }
+
+
+.loca {
+    padding: 100px 100px 30px 45px;
+
+}
+
+.form {
+    padding: 50px 160px 50px 160px;
+}
+
+.git {
+    margin-bottom: 25px;
+    font-size: 27px;
+    font-family: DancingScript;
+}
+
+.form-control {
+    margin: 10px 0px;
+}
+
+.form-control .namenox {
+    padding: 0px 10px;
+}
+.btn .btn1 {
+    border: none;
+    color: white;
+    width: 100px;
+    height: 40px;
+    margin-left: -490px;
+    background-color: red;
+    
+    
+}
+
+.adresses {
+   
+    float: right;
+}
+
+.adresses1 i {
+    display: block;
+    position: absolute;
+    left: 1140px;
+    bottom: -545px;
+    font-size: 30px;
+}
+.adresses2 i {
+    display: block;
+    position: absolute;
+    left: 1140px;
+    bottom: -662px;
+    font-size: 30px;
+}
+.adresses4 {
+    display: block;
+    position: absolute;
+    left: 1192px;
+    bottom: -690px;
+    
+}
+
+.adresses3 i {
+    display: block;
+    position: absolute;
+    left: 1140px;
+    bottom: -770px;
+    font-size: 30px;
+}
+.adresses5 {
+    display: block;
+    position: absolute;
+    left: 1192px;
+    bottom: -795px;
+    
+}
+
+.footer {
+    margin-top: 50px;
+}

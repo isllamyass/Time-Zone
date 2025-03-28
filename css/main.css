@@ -1,0 +1,381 @@
+.imgnav {
+    padding: 10px 20px;
+}
+
+.navbar-nav {
+    margin-left: 240px;
+}
+
+.shop {
+    padding: 0px 20px;
+}
+
+.latest{
+    padding: 0px 20px;
+}
+.contact{
+    padding: 0px 20px;
+}
+.blog{
+    padding: 0px 20px;
+}
+.about{
+    padding: 0px 20px;
+}
+.home{
+    padding: 0px 20px;
+}
+
+.seachicon {
+    width: 100%;
+    height: 40px;
+    color: black;
+    margin-left: 335px;
+    margin-top: 10px;
+    cursor: pointer;
+
+}
+.usericon{
+    width: 100%;
+    height: 40px;
+    color: black;
+    margin-left: 50px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.shopcart {
+    width: 100%;
+    height: 40px;
+    color: black;
+    margin-left: 40px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.selecturstyle .firstpage h1 {
+    width: 449.99px;
+    height: 120px;
+    margin-top: 250px;
+    margin-left: 150px;
+    font-size: 60px;
+    list-style: 1.2;
+    color: #0b1c39;
+    font-family: DancingScript;
+}
+
+.selecturstyle .firstpage p {
+    margin-top: 100px;
+    margin-left: 150px;
+    font-size: 20px; 
+    color: #212025;
+    font-family: AlegreyaSans;
+}
+.selecturstyle .firstpage button {
+    margin-top: 50px;
+    color: white;
+    width: 155px;
+    border-style: none;  
+    height: 50px;
+    margin-left: 150px;
+    font-size: 15px;   
+    background-color: #4a4a4b
+      
+}
+
+ .firstpage button:hover {
+    background-color: red;   
+}
+
+@keyframes zoomEffect {
+    0% { transform: scale(1);}
+    50% { transform: scale(1.05);}
+    100% { transform: scale(1);}
+}
+.selecturstyle .firstwatch {
+    animation: zoomEffect 2s infinite ease-in-out;
+    display: flex;
+    
+    
+}
+
+.selecturstyle{
+    background-color: #f0f0f2 ;
+    overflow: hidden;
+}
+
+
+.nnewarrivals {
+    margin-top: 150px;
+    margin-left: 180px;
+    color: black;
+    font-size: 37px;
+    
+}
+
+.newarrivals .pro {
+    margin-top: 30px;
+    text-align: center;
+    
+    
+}
+
+.newarrivals .row {
+    padding: 0px 80px;
+    
+    
+}
+
+.newarrivals .pro h3 {
+    margin-top: 30px;
+     color: #444444;
+     font-size: 24px;
+}
+
+.newarrivals .pro h6 {
+    margin-top: 10px;
+     color: red;
+     font-size: 18px;
+}
+
+.newarrivals .pro img:hover {
+    transform: scale(1.1);
+    transition: all 1s;
+    
+}
+
+.nnewarrivals {
+    overflow: hidden;
+}
+
+ .sowar4 {
+    margin-top: 150px;
+    
+}
+.row {
+    --bs-gutter-x: 0rem;
+}
+
+.bosla {
+    width: 468px;
+    height: 688.18px;
+    position: absolute;
+    left: 1050px;
+    top: 2075px;
+    float: right;
+    display: inline-block;
+    overflow: hidden;
+}
+.gold {
+    float: right;
+    width: 470px;
+    height: 688.18px;
+    position: absolute;
+    left: 1050px;
+    top: 2440px;
+    float: right;
+    display: inline-block;
+    overflow: hidden;
+}
+
+.bascket {
+    width: 338px;
+    height: 688.18px;
+    position: absolute;
+    left: 683px;
+    top: 2075px;
+    float: right;
+    display: inline-block;
+    overflow: hidden;
+}
+.black {
+    width: 648px;
+    height: 688.18px;
+    position: absolute;
+    left: 0px;
+    top: 2075px;
+    display: inline-block;
+    float: right;
+    overflow: hidden;
+    
+}
+
+.black:hover {
+    filter: brightness(0.5);
+}
+
+.bosla:hover {
+    filter: brightness(0.5);
+}
+
+.gold:hover {
+    filter: brightness(0.5);
+}
+
+.bascket:hover {
+    filter: brightness(0.5);
+}
+.sowar4 {
+    margin-bottom: 800px;
+}
+
+.popitems .te h1 {
+  font-size: 48px;
+  font-family: DancingScript;
+}
+
+.popitems .te p {
+    font-size: 16px;
+    font-family: AlegreyaSans;
+}
+
+.popitems .te {
+    margin-bottom: 20px;
+}
+
+.awel3sa3at {
+    padding: 0px ;
+    margin-left: 30px;
+
+}
+.sora456 {
+    margin-top: 20px;
+}
+
+.vmp {
+    width: 255.86px;
+    height: 76px;
+    font-size: 16px;
+    background-color: red;
+    padding: 30px 28px;
+    margin: 35px 376px;
+    text-align: center;
+    border: none;
+    color: white;
+}
+.sixwatches {
+    padding: 0px 203px;
+}
+
+.yrchoice {
+    padding: 25px 237px;
+}
+.rolexw {
+    float: right;
+    display: inline-block;
+    padding-left: 0px;
+    
+}
+.wrolexw {
+    --bs-gutter-x: 12rem;
+    margin-top: 20px;
+}
+.wrolexw h1 {
+    margin-top: 50px;
+    font-size: 56px;
+    font-family: DancingScript;
+    color: black;
+}
+
+.wrolexw p {
+    margin-top: 10px;
+    font-size: 17px;
+    font-family: AlegreyaSans;
+    color: #777777;
+}
+.vmp1 {
+    width: 153.86px;
+    height: 77px;
+    font-size: 13px;
+    background-color: red;
+    padding: 30px 28px;
+    margin-top: 50px;
+    text-align: center;
+    border: none;
+    color: white;
+}
+
+.yrchoice2 {
+    margin-top: 25px;
+    padding: 25px 237px;
+}
+
+.fss {
+    margin-top: 50px;
+    padding: 25px 158px;
+    
+}
+.fss .ham {
+    padding-bottom: 10px;
+    background-color: red;
+}
+
+.fss .ham i {
+    margin-top: 20px;
+    padding-bottom: 15px;
+    color: white;
+    font-size: 25px;
+    
+   
+}
+.fss .ham h6 {
+    margin: 10px 0px;
+    font-size: 20px;
+    color: white;
+    font-family: AlegreyaSans;
+}
+
+.fss .ham p {
+    font-size: 16px;
+    color: #d3d1d1;
+}
+
+.ham {
+    background-color: red;
+    width: 394px;
+    height: 200px;
+}
+
+.footer .row .links {
+    display: block;
+    margin-top: 15px;
+    color: #868c98;
+}
+
+.footer .row {
+    padding: 68px 75px;
+}
+
+
+.pfr {
+    margin-top: 30px;
+    color: #868c98;
+}
+
+.footer .row h6 {
+    font-size: 20px;
+}
+
+.pnp {
+    color: #868c98;
+    margin-top: 15px; 
+}
+
+.ps {
+    color: #868c98;
+    margin-top: 15px;  
+}
+
+.cr .row .copyright {
+    padding-left: 60px;
+    float: right;
+}
+
+.cr {
+    margin-top: 10px;
+}
+
+.branding {
+    float: right;
+    
+}
